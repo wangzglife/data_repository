@@ -1,5 +1,6 @@
 # module_9492.pth
 ## code
+```python
 class Net(nn.Module):
     def __init__(self):
         super().__init__();
@@ -9,3 +10,4 @@ class Net(nn.Module):
 
     def forward(self,input):
         return self.eNet(input)
+```
