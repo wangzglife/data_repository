@@ -1,4 +1,6 @@
 # module_9492.pth
+private score:0.9038 
+public  score:0.9531
 ## code
 ```python
 class Net(nn.Module):
