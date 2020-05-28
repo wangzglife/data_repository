@@ -34,7 +34,8 @@ class Net(nn.Module):
 B4 
 private score:0.9234
 public  score:0.9602
-gt,vd,cd = 0.6,0.8,0.8
+
+soft_label   gt,vd,cd = 0.6,0.8,0.8
 ## code
 ```python
 class Net(nn.Module):
